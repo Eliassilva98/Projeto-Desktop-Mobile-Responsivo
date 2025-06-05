@@ -14,3 +14,5 @@ confira as fotos do projeto responsivo abaixo: :point_down:
 <img src="https://github.com/Eliassilva98/Projeto-Desktop-Mobile-Responsivo/blob/main/assets/Captura%20de%20tela%202025-06-05%20131917.png?raw=true" alt="logo-mobile" />
 <br>
 Desenvolvi esse projeto pelo :point_right: <a href="https://aulas.devclub.com.br/m/lessons/css-pt2-front-end-club">DevClub<a/>
+<br>
+Acesse o site <a href="https://eliassilva98.github.io/Projeto-Desktop-Mobile-Responsivo/">Clicando Aqui<a/> :point_left:
