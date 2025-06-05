@@ -8,3 +8,5 @@ Resumo do Projeto Responsivo (Desktop-Mobile) :globe_with_meridians: :computer:
 <br>
 confira as fotos do projeto responsivo abaixo: :point_down:
 <br>
+<img src="https://github.com/Eliassilva98/Projeto-Desktop-Mobile-Responsivo/blob/main/assets/Captura%20de%20tela%202025-06-05%20131831.png?raw=true" alt="logo-projeto" />
+<br>
